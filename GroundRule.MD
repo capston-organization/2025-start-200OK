@@ -1,4 +1,4 @@
-# Team Ground Rule
+# 💡Team Ground Rule
 ### 1. 일정 
 - 정기회의 시간: 
 - 중요한 일정을 사전에 공유하기
