@@ -1,4 +1,4 @@
-# 💡 Project Ideation
+# 💡Project Ideation
 이 문서는 프로젝트 아이디어 브레인스토밍 내용을 정리한 초안입니다.
 
 ## 1. 배경
