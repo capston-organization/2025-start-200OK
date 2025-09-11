@@ -44,7 +44,6 @@
 - 주석 및 커밋 메시지를 명확하게 작성하기
 - Pull Request 전 코드 리뷰 & 테스트 수행하기
 
----
 
 ### 1) 이름 규칙 (Naming Rules)
 
@@ -62,7 +61,6 @@
   3. **가능** → `canSubmit`, `canAccess`
   4. **권장/조건** → `shouldUpdate`, `shouldDisplay`
 
----
 
 ### 2) 주석 및 커밋
 
@@ -80,7 +78,6 @@
   - `refactor:` 기능 변경 없는 코드 구조 개선
   - `test:` 테스트 코드 추가/수정
 
----
 
 ### 3) Pull Request
 
