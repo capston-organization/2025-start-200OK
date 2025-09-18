@@ -16,6 +16,6 @@
 | 이름 | Github | position |
 | --- | --- | --- |
 | 김규린 | @9rin |  Backend  |
-| 김연우 | @2ewyeonwoo3|  Backend  |
+| 김연우 | @2ewyeonwoo3|  Backend, AI  |
 | 심희윤 | @cabege |  Fullstack  |
 ---
