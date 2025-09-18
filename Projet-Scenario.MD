@@ -11,6 +11,6 @@
 | **고객** | 초등&중등 학생 또는 해당 학생들을 가르치는 교육자 |
 | **Pain Point** | ① 학생들이 공부에 큰 흥미를 느끼지 못함 <br> ② 학습 능력이 떨어지는 학생들을 찾거나, 도와주는 것이 힘듬 <br> ③ 학생과 반 별로 학습 수준을 명확하게 알 수 없음 <br> ④ 개인에게 맞는 학습 방향성 제공이 어려움 |
 | **사용할 소프트웨어 패키지의 명칭과 핵심기능/용도** | ① **GPT 기반 대화 엔진** – 자연어 이해 및 맞춤형 복지 상담 <br> ② **Google Speech API / Whisper** – 음성 인식 및 명령 입력 <br> ③ **Flutter** – 크로스플랫폼 앱 개발 (Android/iOS 동시 지원) <br> ④ **MySQL** – 복지 서비스 DB 저장 및 조회 <br> ⑤ **고대비/큰 글씨 UI 모듈** – 접근성 강화를 위한 프론트엔드 UI 구성 |
-| **사용할 소프트웨어 패키지의 명칭과 URL** | ① [OpenAI GPT API](https://platform.openai.com) <br> ② [Google Speech-to-Text](https://cloud.google.com/speech-to-text) <br> ③ [Flutter](https://flutter.dev) <br> ④ [MySQL](https://www.mysql.com) |
+| **사용할 소프트웨어 패키지의 명칭과 URL** | ① [FastAPI](https://fastapi.tiangolo.com/ko/) <br> ② [React](https://ko.react.dev/) <br> ③ [Phaser.js](https://phaser.io/) <br> ④ [MySQL](https://www.mysql.com) <br> ⑤ [Spring Boot](https://spring.io/projects/spring-boot) <br> ⑥ [Redis](https://redis.io/) |
 | **팀그라운드룰 URL** |[팀그라운드롤](https://github.com/capston-organization/2025-start-200OK/blob/main/GroundRule.MD)|
-| **최종수정일** | 2025-09-16 |
+| **최종수정일** | 2025-09-18 |
