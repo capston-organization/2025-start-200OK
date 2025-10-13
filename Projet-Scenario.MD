@@ -1,6 +1,6 @@
 | 항목 | 내용 |
 | --- | --- |
-| **프로젝트명** | 교사가 AI를 통해 문제를 생성·분석해 게임에 접목하여 수업에 활용할 수 있는 교육용 게임 플랫폼 |
+| **프로젝트명** | 교사가 AI를 통해 문제를 생성·분석해 게임에 접목하여 수업에 활용할 수 있는 교육용 게임 플랫폼|
 | **프로젝트 키워드** | AI, 교육, 게이미피케이션, 개인화 학습, 실시간 대시보드 |
 | **트랙** | 산학 트랙 |
 | **프로젝트멤버** | 김규린, 김연우, 심희윤 |
@@ -11,4 +11,4 @@
 | **사용할 소프트웨어 패키지의 명칭과 핵심기능/용도** | ① **Python(FastAPI)** – AI 모듈 서버 구현, 문제 생성 및 학습 데이터 분석 API 제공<br>② **ChatGPT API, RAG** – GPT 기반 자동 문제 생성 및 학생 맞춤형 학습 피드백 제공<br>③ **React** – 문제 제작 화면 UI 및 교사용 대시보드 UI, 학생용 학습 UI 구현<br>④ **Phaser.js** – 보드게임형 미니게임 시스템 및 게임 화면 구현<br>⑤ **Spring Boot + MySQL** – 사용자, 세션, 퀘스트 데이터 관리 및 백엔드 로직 처리<br>⑥ **Redis + WebSocket** – 학습 세션 실시간 동기화 및 진행 현황 공유 |
 | **사용할 소프트웨어 패키지의 명칭과 URL** | ① [FastAPI](https://fastapi.tiangolo.com/ko/)<br>② [ChatGPT API](https://platform.openai.com/docs/)<br>③ [React](https://ko.react.dev/)<br>④ [Phaser.js](https://phaser.io/)<br>⑤ [MySQL](https://www.mysql.com)<br>⑥ [Spring Boot](https://spring.io/projects/spring-boot)<br>⑦ [Redis](https://redis.io/) |
 | **팀그라운드룰 URL** | [팀그라운드룰](https://github.com/capston-organization/2025-start-200OK/blob/main/GroundRule.MD) |
-| **최종수정일** | 2025-10-02 |
+| **최종수정일** | 2025-10-13 |
